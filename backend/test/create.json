@@ -1,0 +1,12 @@
+{
+    "data": {
+        "id": "22f2ad63-546a-4f30-8b17-886418ca656f",
+        "manufacturer": "Alfa Romeo",
+        "model": "8C",
+        "picture": "https://autorepublika.com/wp-content/uploads/2018/11/alfa-romeo-8c.jpg",
+        "transmission": "manual",
+        "fuel": "petrol",
+        "type": "coupe",
+        "price": 100000
+    }
+}

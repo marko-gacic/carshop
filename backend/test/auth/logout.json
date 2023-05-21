@@ -1,0 +1,3 @@
+{
+    //has no data, because the token is in the "Auth-Access-Token" header
+}
